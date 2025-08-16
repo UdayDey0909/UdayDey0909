@@ -1,8 +1,8 @@
-<h2 align="left">Hello,👋 fellow humans (and their four-legged debugging assistants)!</h2>
+<h1 align="left">Hello,👋 fellow humans (and their four-legged debugging assistants)!</h1>
 
 ###
 
-<h5 align="left">I’m Uday — once a curious kid breaking gadgets, now a developer building apps.<br>I’m diving into frontend & mobile dev, and looking for my first role to put these skills into action.</h5>
+<h3 align="left">I’m Uday — once a curious kid breaking gadgets, now a developer building apps.<br>I’m diving into frontend & mobile dev, and looking for my first role to put these skills into action.</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h5 align="left">🚀 Turning small ideas into mobile apps you can actually tap, swipe, and use<br>☕ Currently brewing Java skills to expand into Android development<br>🎯 Goal: Start as a mobile developer and grow into a full-stack engineer<br>📚 Outside the code editor: fiction, mystery novels & exploring shiny new tech</h5>
+<h4 align="left">🚀 Turning small ideas into mobile apps you can actually tap, swipe, and use<br>☕ Currently brewing Java skills to expand into Android development<br>🎯 Goal: Start as a mobile developer and grow into a full-stack engineer<br>📚 Outside the code editor: fiction, mystery novels & exploring shiny new tech</h4>
 
 ###
 
@@ -46,18 +46,18 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/UdayDey0909/UdayDey0909/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/UdayDey0909/UdayDey0909/output/snake.svg)
+
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UdayDey0909&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=UdayDey0909&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UdayDey0909&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=UdayDey0909&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UdayDey0909&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=UdayDey0909.UdayDey0909&left_text=Init%20User"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=UdayDey0909.UdayDey0909&left_color=darkslategray&right_color=darkred&left_text=Init%20User"  />
 
 ###
