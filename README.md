@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I’m Uday — once a curious kid breaking gadgets, now a developer building apps.<br>I’m diving into frontend & mobile dev, and looking for my first role to put these skills into action.</h3>
+<h3 align="left">I’m Uday - once a curious kid breaking gadgets, now a developer building apps.<br>I’m diving into frontend & mobile dev, and looking for my first role to put these skills into action.</h3>
 
 ###
 
